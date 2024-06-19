@@ -17,10 +17,9 @@ Em Andamento.
 - Figma
 
 ## Controles do Jogo
-- **Tecla W:** Avançar
-- **Tecla S:** Recuar
-- **Tecla A:** Mover para a esquerda
-- **Tecla D:** Mover para a direita
+- **Mouse:** Controla o jogo/Start
+- **Tecla A/Seta para a esquerda:** Mover para a esquerda
+- **Tecla D/Seta para a direita:** Mover para a direita
 
 ## Jogue Online
 [Link para a página do jogo](https://placeholder.com)
